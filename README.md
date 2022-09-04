@@ -8,7 +8,7 @@ Copy all the code from this repository and install npm with this command.
     
       npm install
     
-      It will download all requirements
+It will download all requirements
 
 Always init npm in your folder
 
